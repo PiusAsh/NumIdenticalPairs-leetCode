@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodPairs", "GoodPairs\GoodPairs.csproj", "{29B5B390-2736-4663-A274-D0D01AE64F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B5B390-2736-4663-A274-D0D01AE64F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B5B390-2736-4663-A274-D0D01AE64F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B5B390-2736-4663-A274-D0D01AE64F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B5B390-2736-4663-A274-D0D01AE64F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA1C520-7CF6-4342-9729-EEEB43055BC1}
+	EndGlobalSection
+EndGlobal
